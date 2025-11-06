@@ -46,6 +46,6 @@ False negatives (missed fraud) - most costly
 False positives (legitimate flagged as fraud)
 Create interpretability outputs (highlight suspicious regions)
 
-###  App:
+###  App (TODO):
 A web app where users can upload check images and receive a fraud likelihood score along with highlighted suspicious areas.
 Built with Streamlit for easy deployment and user interaction.

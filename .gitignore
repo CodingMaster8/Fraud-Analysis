@@ -16,8 +16,7 @@ tmp/
 # Data
 output/
 data/augmented/
+data/
+
 # data/output/
 # data/cited-profiles-cache/
-*.jpg
-*.jpeg
-*.png
