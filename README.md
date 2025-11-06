@@ -1,4 +1,4 @@
-# isthisreal
+# Fraud Analysis on Bank Checks
 
 Detecting fraudulent bank checks that have been altered.
 
@@ -12,6 +12,9 @@ Disregarding:
 - PDF text edits
 
 ### Approach:
+
+![Work Pipeline](visual_insights/work_pipeline.png)
+
 - Using Vision Language Models (VLMs) to detect alterations
 - Generating additional dummy data by creating fraudulent versions of non-fraud checks
 - Evaluating model performance using F1 score
