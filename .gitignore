@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+venv/
+
+.env
+tmp/
+
+# Data
+output/
+data/augmented/
+# data/output/
+# data/cited-profiles-cache/
+*.jpg
+*.jpeg
+*.png
